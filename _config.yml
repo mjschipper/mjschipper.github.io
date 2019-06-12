@@ -6,7 +6,7 @@
 name: Mark Schipper
 
 # Short bio or description (displayed in the header)
-description: Azure Enthusiast
+description: Technical Consultant / Azure Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/mjschipper/mjschipper.github.io/master/images/markschipper.jpg
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/mjschipper/mjschipper.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: mark@mschipper.net
+  facebook: mschippr
   flickr:
   github: mjschipper
   instagram:
-  linkedin:
+  linkedin: mark-schipper-00a972182
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
